@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ibrah\\Desktop\\Bilge Adam\\MVCFinalProje\\AutoMappervsMapster\\KoleksiyonKarşılaştırma\\KoleksiyonKarşılaştırma.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ibrah\\Desktop\\Bilge Adam\\MVCFinalProje\\AutoMappervsMapster\\KoleksiyonKarşılaştırma\\KoleksiyonKarşılaştırma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\Bilge Adam\\MVCFinalProje\\AutoMappervsMapster\\KoleksiyonKarşılaştırma\\KoleksiyonKarşılaştırma.csproj",
+        "projectName": "KoleksiyonKarşılaştırma",
+        "projectPath": "C:\\Users\\ibrah\\Desktop\\Bilge Adam\\MVCFinalProje\\AutoMappervsMapster\\KoleksiyonKarşılaştırma\\KoleksiyonKarşılaştırma.csproj",
+        "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibrah\\Desktop\\Bilge Adam\\MVCFinalProje\\AutoMappervsMapster\\KoleksiyonKarşılaştırma\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
